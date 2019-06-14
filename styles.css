@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+
+}
+
+.controls, .stopwatch {
+	display: flex;
+	justify-content: center;
+	align-items: : center;
+	margin: 0 auto;
+	padding: : 20px;
+	width: 300px;
+	color: #ecf0f1;
+	background: #7f8c8d;
+
+}
+
+.controls {
+	margin-top: 20px;
+}
+
+.stopwatch {
+	font-size: 42px;
+}
+
+.button {
+	display: block;
+	color: #ecf0f1;
+	margin: 20px;
+}
+
